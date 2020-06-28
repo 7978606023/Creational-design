@@ -1,0 +1,11 @@
+package com.ip.builderfoodsystem;
+
+public class Burger implements Items {
+
+	 @Override
+	   public Packing packing() {
+	      return new Wrapper();
+	   }
+	 @Override
+	   public abstract float price();
+}

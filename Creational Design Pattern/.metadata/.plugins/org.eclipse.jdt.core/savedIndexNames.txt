@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+H:\My Program\CollectionFramework\New Collections\Creational Design Pattern\.metadata\.plugins\org.eclipse.jdt.core
+778264204.index
+2248230983.index
+3467720539.index
+899697222.index
+2847598379.index
+4291992656.index
+96551162.index
+3288147116.index
+2180466273.index
+32634983.index
+4129648408.index
+752896471.index
